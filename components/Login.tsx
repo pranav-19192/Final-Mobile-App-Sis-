@@ -32,9 +32,9 @@ const Login: React.FC<LoginProps> = ({ onLogin, onBack }) => {
     // Simulating Google OAuth redirect and callback
     const mockGoogleUser: User = {
       id: 'google_12345',
-      name: 'Rahul Sharma',
-      email: 'rahul.travels@gmail.com',
-      avatar: 'https://picsum.photos/seed/rahul/100/100'
+      name: 'Debosmita Sharma',
+      email: 'debosmita.travels@gmail.com',
+      avatar: 'https://picsum.photos/seed/debosmita/100/100'
     };
     onLogin(mockGoogleUser);
   };
