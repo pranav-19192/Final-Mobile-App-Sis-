@@ -1,0 +1,7 @@
+{
+  "name": "TravelEase - Bus & Train Booking",
+  "description": "A premium travel booking application featuring trip search, seat selection, secure checkout, and AI-powered support chat.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
